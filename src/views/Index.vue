@@ -1,6 +1,6 @@
 <template>
   <div class='index'>
-    <h1>Cassian Solution</h1>
+    <h1>Cassian Solution Customer Page</h1>
     <div>{{ error }}</div>
     <div v-if="isAuth"/>
     <div v-else>
